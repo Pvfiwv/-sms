@@ -6,6 +6,8 @@ git clone https://github.com/hieu123xxx/vexsms
 
 cd vexsms
 
+python setup.py
+
 python vexsms.py
 
 # -set up termux: 
@@ -17,5 +19,7 @@ pkg update
 git clone https://github.com/hieu123xxx/vexsms
 
 cd vexsms
+
+python setup.py
 
 python vexsms.py
